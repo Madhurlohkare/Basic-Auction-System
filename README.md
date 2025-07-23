@@ -46,7 +46,7 @@ Ultimately, this system seeks to democratize the auction experience, making it o
 - **Fee Structure**: Platform fees for sustainability  
 - **Bidding Increments**: Minimum bid step enforcement  
 - **Mobile Application**: User-friendly interface for mobile users  
-- **Integration with NFTs**: Support for non-fungible token auctions  
+- **Integration with NFTs**: Support for non-fungible token auctions.  
 - **Auction Analytics**: Performance statistics and insights 
 
 ## Contract Details
