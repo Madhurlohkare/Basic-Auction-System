@@ -47,7 +47,7 @@ Ultimately, this system seeks to democratize the auction experience, making it o
 - **Bidding Increments**: Minimum bid step enforcement  
 - **Mobile Application**: User-friendly interface for mobile users  
 - **Integration with NFTs**: Support for non-fungible token auctions.  
-- **Auction Analytics**: Performance statistics and insights. 
+- **Auction Analytics**: Performance statistics and insights 
 
 ## Contract Details
 **Contract Address:** `0x6e376eAe538aCb01040e8FF9567f7671F69b4aB3` 
